@@ -34,7 +34,7 @@ const Toppings = ({ addTopping, pizza }) => {
           );
         })}
       </ul>
-      <Link to="/order">
+      <Link to="/orderss">
         <motion.button whileHover={{ scale: 1.1 }}>Order</motion.button>
       </Link>
     </motion.div>
